@@ -49,6 +49,29 @@
 - [ ] Monitoring and logging
 - [ ] Documentation and training
 
+## Current Roadmap
+<!-- ALWAYS UPDATE THIS SECTION - DO NOT APPEND NEW ROADMAPS -->
+<!-- Replace existing roadmap items when plans change -->
+
+### Next Session Priorities
+1. {HIGH_PRIORITY_TASK}
+2. {MEDIUM_PRIORITY_TASK}
+3. {LOW_PRIORITY_TASK}
+
+### Upcoming Milestones
+- {MILESTONE_1} - {TARGET_DATE}
+- {MILESTONE_2} - {TARGET_DATE}
+- {MILESTONE_3} - {TARGET_DATE}
+
+### Issues to Address
+- {KNOWN_ISSUE}
+- {DEPENDENCY_BLOCKER}
+- {TECHNICAL_DEBT}
+
+## Roadmap History
+<!-- Archive old roadmaps here when major changes occur -->
+<!-- Format: ### Roadmap {DATE} - {REASON_FOR_CHANGE} -->
+
 ## Session Log
 
 ### Session {N} ({DATE})
@@ -66,16 +89,6 @@
 - {TECHNICAL_DETAIL}
 - {ARCHITECTURAL_DECISION}
 - {PERFORMANCE_CONSIDERATION}
-
-**Issues to Address**:
-- {KNOWN_ISSUE}
-- {DEPENDENCY_BLOCKER}
-- {TECHNICAL_DEBT}
-
-**Next Session Priorities**:
-1. {HIGH_PRIORITY_TASK}
-2. {MEDIUM_PRIORITY_TASK}
-3. {LOW_PRIORITY_TASK}
 
 ## Technical Requirements Summary
 

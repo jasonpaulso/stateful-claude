@@ -61,6 +61,12 @@ This `dev/` directory contains project management and documentation files to sup
 
 {DEPLOYMENT_INFO}
 
+## Roadmap Updates
+- **ALWAYS** update the "Current Roadmap" section in progress.md in-place
+- **NEVER** create duplicate roadmap sections
+- Archive superseded roadmaps in "Roadmap History" when major changes occur
+- Use clear timestamps and reasons when archiving old roadmaps
+
 ## Key Development Considerations
 
 {DEVELOPMENT_CONSIDERATIONS}
